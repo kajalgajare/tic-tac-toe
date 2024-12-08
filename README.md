@@ -28,9 +28,9 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 - **JavaScript**: For implementing game logic and user interaction.
 
 ## Game Mechanics ⚙️
-- The game alternates between two players: Player X and Player O.
+- The game alternates between two players: **Player X** and **Player O**.
 - A player wins when they achieve any of the following patterns on the grid:
--- Horizontal line
--- Vertical line
--- Diagonal line
+  - **Horizontal line**: Three identical marks in a row.
+  - **Vertical line**: Three identical marks in a column.
+  - **Diagonal line**: Three identical marks diagonally across the grid.
 - If all cells are filled without a winner, the game declares a draw.
